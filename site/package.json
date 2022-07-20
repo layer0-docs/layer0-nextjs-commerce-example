@@ -50,7 +50,7 @@
     "tailwindcss": "^3.0.13"
   },
   "devDependencies": {
-    "@layer0/cli": "^4.13.5",
+    "@layer0/cli": "^4.17.0",
     "@layer0/core": "^4.13.5",
     "@layer0/devtools": "^4.13.5",
     "@layer0/next": "^4.13.2",
